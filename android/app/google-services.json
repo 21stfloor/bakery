@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491739460387",
+    "project_id": "bakery-delivery-7f4f6",
+    "storage_bucket": "bakery-delivery-7f4f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491739460387:android:70ed8b0bcec99c9a621296",
+        "android_client_info": {
+          "package_name": "com.thesis.bakerydelivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZSL6A4P23s7Hy9-RjQf5_zSRgiqm3-so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
